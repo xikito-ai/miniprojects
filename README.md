@@ -1,4 +1,4 @@
-# beginner_projects
+# miniprojects
 projects to start off and to add to my resume
 
 project 1: Quiz
