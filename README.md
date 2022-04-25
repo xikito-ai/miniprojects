@@ -10,7 +10,7 @@ project 2: Clock
         
 project 3: QRcode
 
-        Generating a Qrcode, saving it as image and decoding it.
+        Generating a Qrcode, saving it as an image and decoding it.
 project 4: Rock Paper Scissors
 
         The user plays a simple game of rock, paper, scissors with the computer.
